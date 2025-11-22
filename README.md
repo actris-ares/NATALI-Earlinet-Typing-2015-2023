@@ -2,5 +2,5 @@
 
 The aerosol type profile is a vertical sequence of aerosol classes (like continental, continental polluted, smoke, dust, marine) which are predominant between tops and bottoms of aerosol layers in the troposphere. NATALI code (Neural Network Aerosol Typing Algorithm based on Lidar data), a method to retrieve aerosol type profiles using a neural network algorithm applied on Lidar data, was applied on an extended lidar dataset collected by ACTRIS/EARLINET stations between 2015 and 2023. The analysis is a continuation of Nicolae et al., (2018), with partially overlapping years 2015-2018. Lidar datasets collected between 2015 and 2023 by 26 ACTRIS/EARLINET stations were used as input. In the analysis, only fully quality controlled, namely level 2, ACTRIS/EARLINET data products (EARLINET Data Quality Check v3.0, 2017) are used.
 
-Hoe to Cite:  
+How to Cite:  
 Nicolae, D., Talianu, C., Vasilescu, J., Nicolae, V., Belegante, L., Nemuc, A., Dandocsi, A., Stachlewska, I. S., Szczepanik, D. M., Janicka, L., Papayannis, A., Amiridis, V., Marinou, E., Bortoli, D., Salgueiro, V., Mona, L., Papagiannopoulos, N., Amodeo, A., D’Amico, G., … Ripepi, E. (2024). NATALI Earlinet Typing 2015-2023 (Version 2) [Data set]. ACTRIS-ARES Data Centre Unit. https://doi.org/10.57837/CNR-IMAA/ARES/NATALI-EARLINET-TYPING-2015_2023
